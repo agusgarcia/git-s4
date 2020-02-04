@@ -1,1 +1,3 @@
-# git-s4
+# Bienvenus !
+
+Voici un readme.
