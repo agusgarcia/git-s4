@@ -2,5 +2,6 @@
 
 Hello
 Voici un readme.
-Vive le S4 Dev !
-J'ajoute nimporte quoi !
+Vive le S4 Dev ! TEST
+J'ajoute TEST nimporte quoi !
+TEST
